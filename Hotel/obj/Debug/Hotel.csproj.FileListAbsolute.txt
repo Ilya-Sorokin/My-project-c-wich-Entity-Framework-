@@ -1,0 +1,66 @@
+G:\Базы данных\Hotel\Hotel\bin\Debug\Hotel.exe.config
+G:\Базы данных\Hotel\Hotel\bin\Debug\Hotel.exe
+G:\Базы данных\Hotel\Hotel\bin\Debug\Hotel.pdb
+G:\Базы данных\Hotel\Hotel\bin\Debug\EntityFramework.dll
+G:\Базы данных\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+G:\Базы данных\Hotel\Hotel\bin\Debug\EntityFramework.xml
+G:\Базы данных\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+G:\Базы данных\Hotel\Hotel\bin\Debug\ru\EntityFramework.resources.dll
+G:\Базы данных\Hotel\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+G:\Базы данных\Hotel\Hotel\obj\Debug\Hotel.Form1.resources
+G:\Базы данных\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+G:\Базы данных\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.Cache
+G:\Базы данных\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+G:\Базы данных\Hotel\Hotel\obj\Debug\Hotel.exe
+G:\Базы данных\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\Hotel.exe
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\Hotel.pdb
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\EntityFramework.dll
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\EntityFramework.xml
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.Form1.resources
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.exe
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.pdb
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\Database1.mdf
+C:\Users\ASUS\Desktop\STAR\Университет\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\Database1_log.ldf
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\Database1.mdf
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\Database1_log.ldf
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\EntityFramework.dll
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\EntityFramework.xml
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\bin\Debug\ru\EntityFramework.resources.dll
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.csprojAssemblyReference.cache
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.Form1.resources
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\Сундук\Семья\Илья\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример\Новая папка\Hotel\Hotel\obj\Debug\Hotel.pdb
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\bin\Debug\Database1.mdf
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\bin\Debug\Database1_log.ldf
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\bin\Debug\EntityFramework.dll
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.dll
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\bin\Debug\EntityFramework.xml
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\bin\Debug\EntityFramework.SqlServer.xml
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\bin\Debug\ru\EntityFramework.resources.dll
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\obj\Debug\Hotel.csprojAssemblyReference.cache
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\obj\Debug\Hotel.Form1.resources
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\obj\Debug\Hotel.Properties.Resources.resources
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\obj\Debug\Hotel.csproj.GenerateResource.cache
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\obj\Debug\Hotel.csproj.CoreCompileInputs.cache
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\obj\Debug\Hotel.csproj.CopyComplete
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\obj\Debug\Hotel.exe
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\obj\Debug\Hotel.pdb
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\bin\Debug\Hotel.exe.config
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\bin\Debug\Hotel.exe
+D:\INCEPTION\уни\3 курс 2 полугодие\сундук\[0] 2) Базы данных\Пример — копия\Новая папка\Hotel\Hotel\bin\Debug\Hotel.pdb
